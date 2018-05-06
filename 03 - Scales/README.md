@@ -9,11 +9,11 @@ progressions and modulations.
 
 Before going crazy, you decide to go back to the beginning and study properly this time. Let's go back to the basics:
 
-⋅⋅* For our purposes, there are 7 natural notes: C (Do), D (Re), E (Mi), F (Fa), G (Sol), A (La) and B (Si).
-⋅⋅* Each note represents a pitch. It might suprise you, but the difference in pitch between consecutive notes is not a
+- For our purposes, there are 7 natural notes: C (Do), D (Re), E (Mi), F (Fa), G (Sol), A (La) and B (Si).
+- Each note represents a pitch. It might suprise you, but the difference in pitch between consecutive notes is not a
 constant, but a proportion, and the proportion is not always the same!
-⋅⋅* In particular: C-D, D-E, F-G, G-A and A-B are all a whole step apart, while E-F and B-C are only a half-step apart.
-⋅⋅* The note after B in the sequence is called C again, even though it's higher than the first C (its frequency is double,
+- In particular: C-D, D-E, F-G, G-A and A-B are all a whole step apart, while E-F and B-C are only a half-step apart.
+- The note after B in the sequence is called C again, even though it's higher than the first C (its frequency is double,
 to be exact), and the sequence starts again.
 
 You can clearly see the separation between notes if you look at a piano:
