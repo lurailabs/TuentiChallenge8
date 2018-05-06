@@ -6,4 +6,4 @@ technique you prefer for each challenge. And remember that it’s not a speed co
 code, and algorithms really matter!
 
 
-![alt text](https://cdn-images-1.medium.com/max/2000/1*qg8f3lPmUBXDydW2uO31AQ.jpeg)
+![Tuenti Challenge](https://cdn-images-1.medium.com/max/2000/1*qg8f3lPmUBXDydW2uO31AQ.jpeg)
