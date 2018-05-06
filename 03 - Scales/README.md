@@ -23,8 +23,8 @@ You can clearly see the separation between notes if you look at a piano:
 Natural notes are not everything, though! A natural note can be lowered or raised by a half-step. These are the black
 keys that you can see in the image above (notice there are only black keys between notes that are a whole step apart):
 
-⋅⋅* A natural note raised by half-step becomes a sharp (#).
-⋅⋅* A natural note lowered by half-step becomes a flat (b).
+- A natural note raised by half-step becomes a sharp (#).
+- A natural note lowered by half-step becomes a flat (b).
 
 So, C raised a half-step becomes C# and G lowered half-step becomes Gb. This is where things start to get confusing:
 
