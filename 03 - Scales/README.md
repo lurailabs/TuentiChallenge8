@@ -91,7 +91,7 @@ the string "None" should be printed. Every line is followed by a new line charac
 
 **Examples**
 
-| Case 1:        | Case 2:             | Case 3:                                                   | Case 4: | Case 4:  |
+| Case 1:        | Case 2:             | Case 3:                                                   | Case 4: | Case 5:  |
 | :--------------|:--------------------|:----------------------------------------------------------|:--------|:---------|
 | 7              | 9                   | 22                                                        | 1       | 0        |
 | C C G G A A G  | E D# E D# E B D C A | E D# E F# G# G# F# G# A A G# C# B A G# D# E F# G# G# F# E | Fb      |          |
